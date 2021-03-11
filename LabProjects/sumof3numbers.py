@@ -1,4 +1,4 @@
-"""Write a program that takes three numbers and print their sum.Every number is given on separate line."""
+"""1.Write a program that takes three numbers and print their sum.Every number is given on separate line."""
 
 
 a=float(input("enter value for a:"))

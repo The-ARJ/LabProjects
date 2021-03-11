@@ -5,7 +5,7 @@ the question above."""
 
 N = int(input("enter a number of students:"))
 K = int(input("enter a number of apples:"))
-y = K%N
+y = K % N
 z = K//N
 print("apples remains in basket:", y)
 print("apple gain by each student:", z)

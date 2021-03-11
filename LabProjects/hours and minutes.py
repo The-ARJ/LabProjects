@@ -1,4 +1,4 @@
-"""Given the integer N - the number of minutes tha is passed since midnight - how many
+"""4. Given the integer N - the number of minutes tha is passed since midnight - how many
 hours and minutes are displayed on the 24th digital clock?"""
 
 N = int(input('enter a minute passed since midnight:'))

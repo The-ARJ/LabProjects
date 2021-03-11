@@ -1,4 +1,4 @@
-""" A school decided to replace the desks in three classrooms.Each desk sites two students.
+"""5. A school decided to replace the desks in three classrooms.Each desk sites two students.
 Given the number if students in each class, print the smallest possible number od desks that can be
 purchased.
 The program should read three integers:the number of students in each of the three classes, a, b and c respectively.

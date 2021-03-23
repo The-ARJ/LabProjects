@@ -16,4 +16,3 @@ In the first test there are three groups. The first group has 20 students and th
 8.	Write a Python program which accepts the radius of a circle from the user and compute the area. (area of circle = PI * r2) 
 9.	Write a python program to find sum of the first n positive integers.  
 sum = (n*(n+1))/2 
-10.	Write a Python program to convert seconds to day, hour, minutes and seconds. 

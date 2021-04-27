@@ -1,4 +1,4 @@
-""" Check whether the given year is leap year or not.If year is leap print
+"""9. Check whether the given year is leap year or not.If year is leap print
 LEAP YEAR else print COMMON YEAR"""
 year = int(input("Enter the year:"))
 a = year % 4
